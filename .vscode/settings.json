@@ -2,5 +2,8 @@
     "editor.quickSuggestions": {
         "other": "off"
     },
-    "editor.suggestOnTriggerCharacters": false
+    "editor.suggestOnTriggerCharacters": false,
+    "files.associations": {
+        "stdio.h": "c"
+    }
 }
